@@ -1,0 +1,19 @@
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\bin\Debug\net6.0-windows\App of dentist appointment.exe
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\bin\Debug\net6.0-windows\App of dentist appointment.deps.json
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\bin\Debug\net6.0-windows\App of dentist appointment.runtimeconfig.json
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\bin\Debug\net6.0-windows\App of dentist appointment.dll
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\bin\Debug\net6.0-windows\App of dentist appointment.pdb
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App_of_dentist_appointment.Form1.resources
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App_of_dentist_appointment.Form2.resources
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App_of_dentist_appointment.Properties.Resources.resources
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.csproj.GenerateResource.cache
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.AssemblyInfo.cs
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.dll
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\refint\App of dentist appointment.dll
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.pdb
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\App of dentist appointment.genruntimeconfig.cache
+C:\Users\Mario\source\repos\App of dentist appointment\App of dentist appointment\obj\Debug\net6.0-windows\ref\App of dentist appointment.dll
